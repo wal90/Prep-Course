@@ -1,0 +1,7 @@
+Una VARIABLE es una forma de guardar algo para despues usarlo. Este valor se le asigna usando el signo igual (=).
+
+El STRING es un tipo de dato de una variable, son bloques de textos (hilo de caracteres) definidos entre comillas.
+
+Una FUNCIÓN (function) es ana agrupacion de códigos. La forma de invocar a una funcion es a traves de un ARGUMENMTO que representa una lista de variables cuyos valores son pasados al método para ser usados por éste.Una instrucción return termina la ejecución de una función y devuelve el control a la función de llamada. 
+
+Las DECLARACIONES establecen una asociación entre una variable, función o tipo determinado y sus atributos. La sentencia condicional IF se usa para tomar decisiones, este evaluá básicamente una operación lógica, es decir una expresión que de como resultado True o False, estos son valores BOOLEANOS.
