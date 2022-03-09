@@ -1,0 +1,7 @@
+El bucle FOR se utiliza para repetir una o más instrucciones un determinado número de veces. Tiene una expresión condicional que continuará hasta que esta declaracion sea false.
+
+&& (and) es un operador lógico, que se utiliza para preguntar su dos expresiones son iguales, si alguna de las dos son true; si las dos son true o si ninguna de ellas lo es
+
+|| (or) es un operador lógico que determina si una de las expresiones es true.
+
+! (no/not) este operador devolverá el valor booleano opuesto de lo que se le pasa, es decir, si es falso.. es true.
