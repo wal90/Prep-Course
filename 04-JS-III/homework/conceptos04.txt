@@ -1,0 +1,1 @@
+Un ARRAY es un contenedor de almacenamiento para colecciones de datos, es decir, es una lista de elemenrtos donde se aceptan todo tipo de datos (numeros, strings, booleanos). Se declara una variable y se establece con corchetes []
