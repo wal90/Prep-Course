@@ -1,0 +1,7 @@
+Los OBJETOS contienen mucha información sobre una sola cosa y se intencionan usando llaves {}. Es uan colección de PROPIEDADES.
+
+Una PROPIEDAD es una asociación entre un nombre (o clave) y un valor. La clave seria el identificador y el valor es el valor que queremos guardar en esa clave. El valor de una propiedad puede ser una función, en cuyo caso la propiedad es conocida como un MÉTODO.
+
+el BUCLE FOR...IN itera sobre todas las propiedades enumerables de un objeto que está codificado por cadena, es decir, recorrerá cada clave del objeto y finalizará cuando se hayan iterado todas las claves.
+
+Para acceder a los valores de un objeto se puede hacer mediante la NOTACION DE PUNTOS, que se establece mediente un punto y el nombre de la clave, es literal. La NOTACIÓN DE CORCHETES es como llamar a un elemento de una matriz, se puede llamar a cada clave envolviendola con comillas
