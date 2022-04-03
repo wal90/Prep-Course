@@ -1,0 +1,1 @@
+Una función CALLABACK es aquella que es pasada como argumento a otra función para que sea "llamada de nuevo" (call back) en un momento posterior. Pueden ser retomadas como resultado de una función y guarlas en variables u otras estructuras de datos
